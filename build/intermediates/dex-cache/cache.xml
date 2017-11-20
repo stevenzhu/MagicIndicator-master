@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\AB053167\Desktop\MagicIndicator-master\magicindicator\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7310f809206dfcd2320a2c81aa3ecf56cbb19795">
+        <dex dex="C:\Users\AB053167\Desktop\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\classes_8ea84833e0583c0621cb2365be87daa1a64ffcfe.jar" />
+    </item>
+
+</items>
